@@ -7,7 +7,7 @@
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
-  "author": "",
+  "author": "Prajwal Kene",
   "license": "ISC",
   "dependencies": {
     "connect-mongo": "^3.2.0",
